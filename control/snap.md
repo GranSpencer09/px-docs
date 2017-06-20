@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CLI Reference"
+title: "CLI Reference–Snap"
 keywords: portworx, pxctl, command-line tool, cli, reference
 sidebar: home_sidebar
 redirect_from: "/cli-reference.html"
