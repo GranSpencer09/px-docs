@@ -22,4 +22,3 @@ Here is a short video that shows how to configure and run Portworx with Mesosphe
 
 ## See the Documentation
 Get started now with running [Portworx on Mesos](/scheduler/mesosphere-dcos/install.html)
-
