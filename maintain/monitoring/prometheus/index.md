@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Portworx integration with prometheus"
+title: "Portworx Integration with Prometheus"
 keywords: prometheus, graph, stats
 sidebar: home_sidebar
 redirect_from: "/prometheus/index.html"
