@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Run PX as a Docker V2 Plugin"
+title: "Install and Configure Portworx v2 Docker Plugin"
 keywords: portworx, px-developer, px-enterprise, plugin, install, configure, container, storage, add nodes
 sidebar: home_sidebar
 redirect_from: "/run-as-docker-pluginv2.html"
