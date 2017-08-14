@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "FAQs"
+title: "Frequently Asked Questions Portworx”
 keywords: portworx, faqs
 sidebar: home_sidebar
 redirect_from: "/px-faqs.html"
