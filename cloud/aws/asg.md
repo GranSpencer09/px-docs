@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Portworx AWS Auto Scaling"
+title: "Scale a Portworx Cluster on AWS with Auto Scaling"
 keywords: portworx, AWS, CloudFormation, ASG, Auto Scaling, Load Balancer, ECS, EC2
 sidebar: home_sidebar
 redirect_from:

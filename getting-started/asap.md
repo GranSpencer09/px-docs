@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Get Started ASAP"
+title: "Deploy Portworx on AWS CloudFormation"
 keywords: portworx, AWS, CloudFormation
 sidebar: home_sidebar
 redirect_from: "/get-started-asap.html"
