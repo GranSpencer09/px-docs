@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Portworx Encrypted Volumes"
+title: "Encryption Feature for Portworx Volumes"
 keywords: portworx, px-developer, px-enterprise, plugin, install, configure, container, storage, encryption
 sidebar: home_sidebar
 redirect_from: "/encrypted-volumes.html"
